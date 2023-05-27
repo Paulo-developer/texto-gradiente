@@ -1,1 +1,2 @@
-<h2>Segue o código do Texto com Gradiente! </br> </br> O gradiente tu faz do jeito que tu achar melhor, só vai!</h2>
+<h2>Segue o código do Texto com Gradiente!</h2>
+<p>IMPORTANTE: O código CSS está dentro do arquivo HTML</p>
